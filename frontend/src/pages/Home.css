@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+.home-container {
+  position: relative;
+  font-family: 'Poppins', sans-serif;
+  background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-black-meat-western-food-banner-background-image_194600.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  color: white;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.7), rgba(10, 10, 10, 0.8));
+  z-index: 0;
+}
+
+.home-content {
+  position: relative;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 50px;
+  border-radius: 20px;
+  max-width: 750px;
+  text-align: center;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
+  animation: fadeIn 1.2s ease-in-out;
+}
+
+.animated-title {
+  font-size: 2.8rem;
+  margin-bottom: 20px;
+  font-weight: 600;
+  color: #ffffff;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
+  animation: pulseGlow 3s infinite;
+}
+
+.home-description {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  margin: 15px 0;
+  color: #f1f1f1;
+}
+
+.divider {
+  width: 60px;
+  height: 4px;
+  background: #f7c844;
+  margin: 20px auto;
+  border-radius: 8px;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    text-shadow: 0 0 12px rgba(255, 255, 255, 0.6);
+  }
+  50% {
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.9);
+  }
+}

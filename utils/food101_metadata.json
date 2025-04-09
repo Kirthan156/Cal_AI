@@ -1,0 +1,1117 @@
+{
+  "apple_pie": {
+    "calories": 300,
+    "nutrients": {
+      "carbs": "42g",
+      "protein": "2g",
+      "fat": "14g"
+    },
+    "vegetarian": true,
+    "ingredients": "Apples, sugar, flour, butter, cinnamon, pie crust",
+    "recipe": "Slice apples and mix with sugar and cinnamon. Place in a pie crust, cover with top crust, and bake until golden brown."
+  },
+  "baby_back_ribs": {
+    "calories": 450,
+    "nutrients": {
+      "carbs": "12g",
+      "protein": "30g",
+      "fat": "32g"
+    },
+    "vegetarian": false,
+    "ingredients": "Pork ribs, BBQ sauce, spices, sugar, vinegar",
+    "recipe": "Rub ribs with spices, bake slowly or grill, and coat with BBQ sauce until caramelized."
+  },
+  "baklava": {
+    "calories": 330,
+    "nutrients": {
+      "carbs": "38g",
+      "protein": "4g",
+      "fat": "18g"
+    },
+    "vegetarian": true,
+    "ingredients": "Phyllo dough, honey, walnuts, sugar, butter",
+    "recipe": "Layer phyllo dough with butter and nuts, bake until crisp, then pour honey syrup over the hot pastry."
+  },
+  "beef_carpaccio": {
+    "calories": 250,
+    "nutrients": {
+      "carbs": "2g",
+      "protein": "28g",
+      "fat": "16g"
+    },
+    "vegetarian": false,
+    "ingredients": "Raw beef, olive oil, parmesan, arugula, lemon",
+    "recipe": "Thinly slice raw beef, drizzle with olive oil and lemon juice, top with arugula and parmesan."
+  },
+  "beef_tartare": {
+    "calories": 270,
+    "nutrients": {
+      "carbs": "3g",
+      "protein": "25g",
+      "fat": "18g"
+    },
+    "vegetarian": false,
+    "ingredients": "Raw beef, egg yolk, capers, mustard, onions",
+    "recipe": "Chop beef finely, mix with capers, onions, and mustard, and serve topped with egg yolk."
+  },
+  "beet_salad": {
+    "calories": 150,
+    "nutrients": {
+      "carbs": "18g",
+      "protein": "4g",
+      "fat": "8g"
+    },
+    "vegetarian": true,
+    "ingredients": "Beets, goat cheese, walnuts, greens, vinaigrette",
+    "recipe": "Roast or boil beets, slice and combine with greens, goat cheese, walnuts, and vinaigrette."
+  },
+  "beignets": {
+    "calories": 310,
+    "nutrients": {
+      "carbs": "34g",
+      "protein": "4g",
+      "fat": "18g"
+    },
+    "vegetarian": true,
+    "ingredients": "Flour, sugar, yeast, oil, powdered sugar",
+    "recipe": "Prepare yeast dough, let it rise, cut into squares, fry until golden, and dust with powdered sugar."
+  },
+  "bibimbap": {
+    "calories": 500,
+    "nutrients": {
+      "carbs": "55g",
+      "protein": "20g",
+      "fat": "20g"
+    },
+    "vegetarian": false,
+    "ingredients": "Rice, beef, vegetables, egg, gochujang sauce",
+    "recipe": "Cook rice and toppings separately. Arrange rice, sautéed vegetables, beef, and fried egg in a bowl. Serve with gochujang."
+  },
+  "bread_pudding": {
+    "calories": 350,
+    "nutrients": {
+      "carbs": "45g",
+      "protein": "6g",
+      "fat": "18g"
+    },
+    "vegetarian": true,
+    "ingredients": "Bread, milk, eggs, sugar, cinnamon, raisins",
+    "recipe": "Soak bread in milk, eggs, sugar, and cinnamon mixture. Add raisins and bake until set and golden."
+  },
+  "breakfast_burrito": {
+    "calories": 520,
+    "nutrients": {
+      "carbs": "40g",
+      "protein": "22g",
+      "fat": "30g"
+    },
+    "vegetarian": false,
+    "ingredients": "Tortilla, eggs, cheese, sausage, potato",
+    "recipe": "Scramble eggs and cook sausage and potatoes. Wrap everything in a tortilla with cheese and toast it."
+  },
+    "bruschetta": {
+      "calories": 180,
+      "nutrients": {
+        "carbs": "24g",
+        "protein": "4g",
+        "fat": "8g"
+      },
+      "vegetarian": true,
+      "ingredients": "Bread, tomatoes, basil, garlic, olive oil",
+      "recipe": "Toast bread slices, top with a mixture of chopped tomatoes, basil, garlic, and olive oil."
+    },
+    "caesar_salad": {
+      "calories": 220,
+      "nutrients": {
+        "carbs": "10g",
+        "protein": "10g",
+        "fat": "16g"
+      },
+      "vegetarian": false,
+      "ingredients": "Romaine, croutons, Caesar dressing, parmesan",
+      "recipe": "Toss romaine lettuce with Caesar dressing, add croutons and grated parmesan before serving."
+    },
+    "cannoli": {
+      "calories": 290,
+      "nutrients": {
+        "carbs": "30g",
+        "protein": "5g",
+        "fat": "16g"
+      },
+      "vegetarian": true,
+      "ingredients": "Fried pastry, ricotta cheese, sugar, chocolate",
+      "recipe": "Fill fried pastry shells with sweet ricotta filling and sprinkle with chocolate or candied fruit."
+    },
+    "caprese_salad": {
+      "calories": 180,
+      "nutrients": {
+        "carbs": "6g",
+        "protein": "8g",
+        "fat": "14g"
+      },
+      "vegetarian": true,
+      "ingredients": "Tomatoes, mozzarella, basil, olive oil, balsamic",
+      "recipe": "Slice fresh tomatoes and mozzarella, layer with basil, and drizzle with olive oil and balsamic."
+    },
+    "carrot_cake": {
+      "calories": 400,
+      "nutrients": {
+        "carbs": "45g",
+        "protein": "4g",
+        "fat": "22g"
+      },
+      "vegetarian": true,
+      "ingredients": "Carrots, flour, eggs, sugar, cream cheese frosting",
+      "recipe": "Mix grated carrots with cake batter, bake, and frost with cream cheese icing once cool."
+    },
+    "ceviche": {
+      "calories": 200,
+      "nutrients": {
+        "carbs": "10g",
+        "protein": "20g",
+        "fat": "8g"
+      },
+      "vegetarian": false,
+      "ingredients": "Raw fish, lime juice, onions, cilantro, chili",
+      "recipe": "Marinate raw fish in lime juice until opaque. Mix with onions, cilantro, and chili for serving."
+    },
+    "cheesecake": {
+      "calories": 430,
+      "nutrients": {
+        "carbs": "32g",
+        "protein": "6g",
+        "fat": "30g"
+      },
+      "vegetarian": true,
+      "ingredients": "Cream cheese, sugar, eggs, graham crust",
+      "recipe": "Blend cream cheese, sugar, and eggs. Pour into crust and bake until firm. Chill before serving."
+    },
+    "cheese_plate": {
+      "calories": 500,
+      "nutrients": {
+        "carbs": "6g",
+        "protein": "18g",
+        "fat": "42g"
+      },
+      "vegetarian": true,
+      "ingredients": "Assorted cheeses, crackers, fruit, nuts",
+      "recipe": "Arrange various cheeses with crackers, fruit slices, and nuts on a platter for serving."
+    },
+    "chicken_curry": {
+      "calories": 450,
+      "nutrients": {
+        "carbs": "15g",
+        "protein": "28g",
+        "fat": "30g"
+      },
+      "vegetarian": false,
+      "ingredients": "Chicken, curry spices, onion, tomatoes, cream",
+      "recipe": "Cook onions and spices, add chicken and tomatoes, simmer, then finish with cream until thick."
+    },
+    "chicken_quesadilla": {
+      "calories": 520,
+      "nutrients": {
+        "carbs": "36g",
+        "protein": "24g",
+        "fat": "32g"
+      },
+      "vegetarian": false,
+      "ingredients": "Tortilla, chicken, cheese, peppers, onions",
+      "recipe": "Place chicken, cheese, and veggies between tortillas and grill until the cheese melts and crust browns."
+    },
+      "churros": {
+        "calories": 420,
+        "nutrients": {
+          "protein": "4g",
+          "carbs": "51g",
+          "fat": "22g"
+        },
+        "vegetarian": true,
+        "ingredients": ["flour", "water", "butter", "sugar", "cinnamon", "egg", "oil"],
+        "recipe": "Boil water with butter. Add flour to make dough. Pipe into hot oil. Fry and roll in cinnamon sugar."
+      },
+      "clam_chowder": {
+        "calories": 250,
+        "nutrients": {
+          "protein": "10g",
+          "carbs": "20g",
+          "fat": "15g"
+        },
+        "vegetarian": false,
+        "ingredients": ["clams", "potatoes", "onion", "celery", "cream", "butter"],
+        "recipe": "Cook clams with veggies. Simmer with cream and butter until thick."
+      },
+      "club_sandwich": {
+        "calories": 480,
+        "nutrients": {
+          "protein": "30g",
+          "carbs": "35g",
+          "fat": "25g"
+        },
+        "vegetarian": false,
+        "ingredients": ["bread", "turkey", "bacon", "lettuce", "tomato", "mayonnaise"],
+        "recipe": "Layer toasted bread with turkey, bacon, lettuce, tomato, and mayo. Slice into triangles."
+      },
+      "crab_cakes": {
+        "calories": 300,
+        "nutrients": {
+          "protein": "20g",
+          "carbs": "18g",
+          "fat": "18g"
+        },
+        "vegetarian": false,
+        "ingredients": ["crab meat", "breadcrumbs", "egg", "mustard", "mayonnaise"],
+        "recipe": "Mix ingredients, form patties, and pan-fry until golden."
+      },
+      "creme_brulee": {
+        "calories": 350,
+        "nutrients": {
+          "protein": "5g",
+          "carbs": "30g",
+          "fat": "25g"
+        },
+        "vegetarian": true,
+        "ingredients": ["cream", "egg yolks", "sugar", "vanilla"],
+        "recipe": "Mix cream and yolks, bake in ramekins. Chill and caramelize sugar on top."
+      },
+      "croque_madame": {
+        "calories": 560,
+        "nutrients": {
+          "protein": "30g",
+          "carbs": "35g",
+          "fat": "35g"
+        },
+        "vegetarian": false,
+        "ingredients": ["bread", "ham", "cheese", "egg", "bechamel sauce"],
+        "recipe": "Assemble sandwich with ham and cheese, top with egg and sauce, and bake."
+      },
+      "cup_cakes": {
+        "calories": 300,
+        "nutrients": {
+          "protein": "3g",
+          "carbs": "40g",
+          "fat": "15g"
+        },
+        "vegetarian": true,
+        "ingredients": ["flour", "sugar", "butter", "eggs", "milk", "vanilla", "frosting"],
+        "recipe": "Mix ingredients, bake in cupcake tins, and frost when cool."
+      },
+      "deviled_eggs": {
+        "calories": 120,
+        "nutrients": {
+          "protein": "6g",
+          "carbs": "1g",
+          "fat": "10g"
+        },
+        "vegetarian": true,
+        "ingredients": ["eggs", "mayonnaise", "mustard", "paprika"],
+        "recipe": "Boil eggs, halve and mix yolks with mayo and mustard. Fill whites and sprinkle with paprika."
+      },
+      "donuts": {
+        "calories": 350,
+        "nutrients": {
+          "protein": "4g",
+          "carbs": "45g",
+          "fat": "18g"
+        },
+        "vegetarian": true,
+        "ingredients": ["flour", "yeast", "milk", "sugar", "egg", "oil", "glaze"],
+        "recipe": "Make dough, rise, shape, fry in oil, and dip in glaze."
+      },
+      "dumplings": {
+        "calories": 200,
+        "nutrients": {
+          "protein": "8g",
+          "carbs": "25g",
+          "fat": "8g"
+        },
+        "vegetarian": false,
+        "ingredients": ["flour", "meat or veggies", "soy sauce", "garlic", "ginger"],
+        "recipe": "Fill wrappers with meat or veg mix. Steam or fry until cooked."
+      },
+        "edamame": {
+    "calories": 120,
+    "nutrients": {
+      "protein": "11g",
+      "carbs": "9g",
+      "fat": "5g"
+    },
+    "vegetarian": true,
+    "ingredients": ["edamame", "salt"],
+    "recipe": "Boil edamame pods in salted water until tender. Serve hot or cold as a healthy appetizer or snack."
+  },
+  "eggs_benedict": {
+    "calories": 400,
+    "nutrients": {
+      "protein": "15g",
+      "carbs": "30g",
+      "fat": "25g"
+    },
+    "vegetarian": false,
+    "ingredients": ["eggs", "English muffin", "ham", "hollandaise sauce"],
+    "recipe": "Poach eggs, toast muffins, and layer with ham. Top with hollandaise sauce and serve immediately."
+  },
+  "escargots": {
+    "calories": 250,
+    "nutrients": {
+      "protein": "15g",
+      "carbs": "2g",
+      "fat": "22g"
+    },
+    "vegetarian": false,
+    "ingredients": ["snails", "garlic butter", "parsley"],
+    "recipe": "Bake snails in their shells with garlic parsley butter until sizzling. Serve hot with bread."
+  },
+  "falafel": {
+    "calories": 300,
+    "nutrients": {
+      "protein": "10g",
+      "carbs": "25g",
+      "fat": "18g"
+    },
+    "vegetarian": true,
+    "ingredients": ["chickpeas", "onion", "garlic", "herbs", "flour", "oil"],
+    "recipe": "Grind soaked chickpeas with herbs and spices, form balls, and deep-fry until golden brown."
+  },
+  "filet_mignon": {
+    "calories": 500,
+    "nutrients": {
+      "protein": "40g",
+      "carbs": "0g",
+      "fat": "35g"
+    },
+    "vegetarian": false,
+    "ingredients": ["beef tenderloin", "salt", "pepper", "butter"],
+    "recipe": "Sear the seasoned beef filet in butter on high heat, then cook to desired doneness and rest before serving."
+  },
+  "fish_and_chips": {
+    "calories": 600,
+    "nutrients": {
+      "protein": "25g",
+      "carbs": "50g",
+      "fat": "35g"
+    },
+    "vegetarian": false,
+    "ingredients": ["fish fillets", "potatoes", "flour", "oil", "tartar sauce"],
+    "recipe": "Coat fish in batter and deep-fry until golden. Serve with crispy fries and tartar sauce."
+  },
+  "foie_gras": {
+    "calories": 430,
+    "nutrients": {
+      "protein": "7g",
+      "carbs": "2g",
+      "fat": "45g"
+    },
+    "vegetarian": false,
+    "ingredients": ["duck liver", "salt", "pepper", "butter"],
+    "recipe": "Slice foie gras and sear on high heat until browned. Serve hot on toast or brioche."
+  },
+  "french_fries": {
+    "calories": 365,
+    "nutrients": {
+      "protein": "4g",
+      "carbs": "48g",
+      "fat": "18g"
+    },
+    "vegetarian": true,
+    "ingredients": ["potatoes", "oil", "salt"],
+    "recipe": "Cut potatoes into thin strips and deep-fry in hot oil until golden. Drain and season with salt."
+  },
+  "french_onion_soup": {
+    "calories": 280,
+    "nutrients": {
+      "protein": "10g",
+      "carbs": "25g",
+      "fat": "15g"
+    },
+    "vegetarian": false,
+    "ingredients": ["onions", "beef broth", "bread", "cheese", "butter"],
+    "recipe": "Caramelize onions, simmer in beef broth. Top with bread and melted cheese under a broiler."
+  },
+  "french_toast": {
+    "calories": 350,
+    "nutrients": {
+      "protein": "10g",
+      "carbs": "35g",
+      "fat": "18g"
+    },
+    "vegetarian": true,
+    "ingredients": ["bread", "eggs", "milk", "cinnamon", "syrup"],
+    "recipe": "Dip bread in egg and milk mixture. Fry until golden on both sides. Serve with syrup or fruit."
+  },
+        
+            "fried_calamari": {
+              "calories": 350,
+              "nutrients": {
+                "protein": "15g",
+                "fat": "20g",
+                "carbs": "25g"
+              },
+              "vegetarian": false,
+              "ingredients": ["calamari", "flour", "egg", "breadcrumbs", "oil", "lemon"],
+              "recipe": "Coat calamari rings in seasoned flour and breadcrumbs, deep fry until golden, and serve with lemon wedges."
+            },
+            "fried_rice": {
+              "calories": 400,
+              "nutrients": {
+                "protein": "12g",
+                "fat": "14g",
+                "carbs": "45g"
+              },
+              "vegetarian": true,
+              "ingredients": ["rice", "eggs", "peas", "carrots", "soy sauce", "oil"],
+              "recipe": "Stir-fry vegetables and scrambled eggs with rice and soy sauce until well combined."
+            },
+            "frozen_yogurt": {
+              "calories": 200,
+              "nutrients": {
+                "protein": "6g",
+                "fat": "4g",
+                "carbs": "30g"
+              },
+              "vegetarian": true,
+              "ingredients": ["yogurt", "sugar", "milk", "vanilla"],
+              "recipe": "Churn yogurt with sugar and milk in an ice cream maker until frozen and creamy."
+            },
+            "garlic_bread": {
+              "calories": 300,
+              "nutrients": {
+                "protein": "7g",
+                "fat": "15g",
+                "carbs": "35g"
+              },
+              "vegetarian": true,
+              "ingredients": ["bread", "butter", "garlic", "parsley"],
+              "recipe": "Spread garlic butter on bread slices and bake until crispy and golden."
+            },
+            "gnocchi": {
+              "calories": 320,
+              "nutrients": {
+                "protein": "8g",
+                "fat": "10g",
+                "carbs": "50g"
+              },
+              "vegetarian": true,
+              "ingredients": ["potatoes", "flour", "egg", "salt"],
+              "recipe": "Mix boiled potatoes with flour and egg, shape into small dumplings, and boil until they float."
+            },
+            "greek_salad": {
+              "calories": 250,
+              "nutrients": {
+                "protein": "6g",
+                "fat": "18g",
+                "carbs": "12g"
+              },
+              "vegetarian": true,
+              "ingredients": ["tomato", "cucumber", "feta cheese", "olives", "olive oil", "onion"],
+              "recipe": "Toss vegetables with olive oil, oregano, and crumbled feta cheese."
+            },
+            "grilled_cheese_sandwich": {
+              "calories": 450,
+              "nutrients": {
+                "protein": "12g",
+                "fat": "30g",
+                "carbs": "35g"
+              },
+              "vegetarian": true,
+              "ingredients": ["bread", "cheddar cheese", "butter"],
+              "recipe": "Butter bread slices, fill with cheese, and grill until golden brown on both sides."
+            },
+            "grilled_salmon": {
+              "calories": 420,
+              "nutrients": {
+                "protein": "35g",
+                "fat": "28g",
+                "carbs": "0g"
+              },
+              "vegetarian": false,
+              "ingredients": ["salmon fillet", "olive oil", "lemon", "herbs"],
+              "recipe": "Brush salmon with olive oil and herbs, grill until cooked through and flaky."
+            },
+            "guacamole": {
+              "calories": 150,
+              "nutrients": {
+                "protein": "2g",
+                "fat": "13g",
+                "carbs": "8g"
+              },
+              "vegetarian": true,
+              "ingredients": ["avocado", "lime", "onion", "cilantro", "salt"],
+              "recipe": "Mash avocados with lime juice, chopped onion, cilantro, and salt."
+            },
+            "gyoza": {
+              "calories": 280,
+              "nutrients": {
+                "protein": "10g",
+                "fat": "12g",
+                "carbs": "30g"
+              },
+              "vegetarian": false,
+              "ingredients": ["dumpling wrappers", "pork", "cabbage", "ginger", "soy sauce"],
+              "recipe": "Fill wrappers with pork mixture, fold, pan-fry and steam until cooked."
+            },
+            "hamburger": {
+              "calories": 500,
+              "nutrients": {
+                "protein": "25g",
+                "fat": "28g",
+                "carbs": "40g"
+              },
+              "vegetarian": false,
+              "ingredients": ["beef patty", "bun", "lettuce", "tomato", "cheese", "condiments"],
+              "recipe": "Grill beef patty, assemble in a bun with vegetables and sauce."
+            },
+            "hot_and_sour_soup": {
+              "calories": 150,
+              "nutrients": {
+                "protein": "6g",
+                "fat": "5g",
+                "carbs": "18g"
+              },
+              "vegetarian": true,
+              "ingredients": ["tofu", "mushrooms", "bamboo shoots", "vinegar", "soy sauce", "pepper"],
+              "recipe": "Simmer ingredients in broth with vinegar and spices for a tangy flavor."
+            },
+            "hot_dog": {
+              "calories": 330,
+              "nutrients": {
+                "protein": "12g",
+                "fat": "20g",
+                "carbs": "25g"
+              },
+              "vegetarian": false,
+              "ingredients": ["hot dog sausage", "bun", "mustard", "ketchup"],
+              "recipe": "Grill sausage, place in bun, add condiments to taste."
+            },
+            "huevos_rancheros": {
+              "calories": 280,
+              "nutrients": {
+                "protein": "12g",
+                "fat": "18g",
+                "carbs": "20g"
+              },
+              "vegetarian": true,
+              "ingredients": ["eggs", "tortilla", "salsa", "beans", "cheese"],
+              "recipe": "Fry tortilla and eggs, top with warm salsa, beans, and cheese."
+            },
+            "hummus": {
+              "calories": 180,
+              "nutrients": {
+                "protein": "5g",
+                "fat": "12g",
+                "carbs": "14g"
+              },
+              "vegetarian": true,
+              "ingredients": ["chickpeas", "tahini", "lemon juice", "garlic", "olive oil"],
+              "recipe": "Blend chickpeas with tahini, lemon juice, garlic, and olive oil until smooth."
+            },
+            "ice_cream": {
+              "calories": 250,
+              "nutrients": {
+                "protein": "4g",
+                "fat": "14g",
+                "carbs": "25g"
+              },
+              "vegetarian": true,
+              "ingredients": ["milk", "cream", "sugar", "vanilla"],
+              "recipe": "Churn sweetened cream mixture in an ice cream maker until frozen."
+            },
+            "lasagna": {
+              "calories": 450,
+              "nutrients": {
+                "protein": "20g",
+                "fat": "25g",
+                "carbs": "35g"
+              },
+              "vegetarian": false,
+              "ingredients": ["pasta sheets", "ground beef", "cheese", "tomato sauce", "ricotta"],
+              "recipe": "Layer pasta with sauce and cheese, then bake until bubbly and golden."
+            },
+            "lobster_bisque": {
+              "calories": 320,
+              "nutrients": {
+                "protein": "18g",
+                "fat": "20g",
+                "carbs": "15g"
+              },
+              "vegetarian": false,
+              "ingredients": ["lobster", "cream", "butter", "onion", "sherry"],
+              "recipe": "Simmer lobster shells for stock, add cream and puree into a rich soup."
+            },
+            "lobster_roll_sandwich": {
+              "calories": 450,
+              "nutrients": {
+                "protein": "25g",
+                "fat": "28g",
+                "carbs": "30g"
+              },
+              "vegetarian": false,
+              "ingredients": ["lobster meat", "mayonnaise", "butter", "bun"],
+              "recipe": "Toss lobster meat with mayo, serve in a toasted buttered bun."
+            },
+            "macaroni_and_cheese": {
+              "calories": 400,
+              "nutrients": {
+                "protein": "10g",
+                "fat": "22g",
+                "carbs": "38g"
+              },
+              "vegetarian": true,
+              "ingredients": ["macaroni", "cheddar cheese", "milk", "butter"],
+              "recipe": "Boil macaroni, mix with cheese sauce, and bake until bubbly."
+            },
+            
+                "macarons": {
+                  "calories": 90,
+                  "nutrients": {
+                    "carbs": "11g",
+                    "protein": "2g",
+                    "fat": "4g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": ["almond flour", "egg whites", "sugar", "food coloring", "buttercream"],
+                  "recipe": "Whisk egg whites and sugar to stiff peaks. Fold in almond flour and coloring. Pipe onto tray and bake. Fill with buttercream."
+                },
+                "miso_soup": {
+                  "calories": 45,
+                  "nutrients": {
+                    "carbs": "3g",
+                    "protein": "3g",
+                    "fat": "2g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": ["miso paste", "tofu", "seaweed", "green onions", "dashi"],
+                  "recipe": "Boil water with dashi, dissolve miso paste, add tofu and seaweed, simmer and garnish with green onions."
+                },
+                "mussels": {
+                  "calories": 172,
+                  "nutrients": {
+                    "carbs": "7g",
+                    "protein": "24g",
+                    "fat": "5g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": ["mussels", "garlic", "white wine", "parsley", "butter"],
+                  "recipe": "Steam mussels in garlic and white wine sauce, finish with butter and chopped parsley."
+                },
+                "nachos": {
+                  "calories": 275,
+                  "nutrients": {
+                    "carbs": "30g",
+                    "protein": "9g",
+                    "fat": "15g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": ["tortilla chips", "cheese", "beans", "jalapeños", "salsa"],
+                  "recipe": "Layer chips with cheese and toppings. Bake until melted. Serve with salsa or guacamole."
+                },
+                "omelette": {
+                  "calories": 154,
+                  "nutrients": {
+                    "carbs": "1g",
+                    "protein": "11g",
+                    "fat": "11g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": ["eggs", "milk", "cheese", "bell peppers", "onions"],
+                  "recipe": "Beat eggs with milk. Pour into skillet, cook with vegetables and cheese until set."
+                },
+                "onion_rings": {
+                  "calories": 411,
+                  "nutrients": {
+                    "carbs": "44g",
+                    "protein": "5g",
+                    "fat": "25g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": ["onions", "flour", "breadcrumbs", "eggs", "oil"],
+                  "recipe": "Slice onions, coat in batter, then breadcrumbs. Deep fry until golden brown."
+                },
+                "oysters": {
+                  "calories": 69,
+                  "nutrients": {
+                    "carbs": "4g",
+                    "protein": "8g",
+                    "fat": "2g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": ["oysters", "lemon", "cocktail sauce", "hot sauce"],
+                  "recipe": "Shuck oysters and serve raw on the half shell with condiments."
+                },
+                "pad_thai": {
+                  "calories": 375,
+                  "nutrients": {
+                    "carbs": "50g",
+                    "protein": "14g",
+                    "fat": "13g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": ["rice noodles", "shrimp", "egg", "bean sprouts", "peanuts"],
+                  "recipe": "Stir-fry noodles with shrimp, eggs, and sauce. Top with peanuts and sprouts."
+                },
+                "paella": {
+                  "calories": 330,
+                  "nutrients": {
+                    "carbs": "35g",
+                    "protein": "18g",
+                    "fat": "12g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": ["rice", "shrimp", "chicken", "peas", "saffron"],
+                  "recipe": "Cook rice with saffron and broth. Add meats and vegetables, simmer until absorbed."
+                },
+                "pancakes": {
+                  "calories": 175,
+                  "nutrients": {
+                    "carbs": "28g",
+                    "protein": "4g",
+                    "fat": "5g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": ["flour", "milk", "eggs", "baking powder", "butter"],
+                  "recipe": "Mix ingredients into batter. Pour onto skillet and cook both sides until golden."
+                },
+                "panna_cotta": {
+                  "calories": 220,
+                  "nutrients": {
+                    "carbs": "20g",
+                    "protein": "3g",
+                    "fat": "15g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": ["cream", "sugar", "gelatin", "vanilla", "berries"],
+                  "recipe": "Heat cream with sugar and vanilla. Add gelatin, pour into molds, chill until set."
+                },
+                "peking_duck": {
+                  "calories": 337,
+                  "nutrients": {
+                    "carbs": "12g",
+                    "protein": "27g",
+                    "fat": "21g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": ["duck", "hoisin sauce", "scallions", "pancakes", "cucumber"],
+                  "recipe": "Roast duck, slice skin. Serve in pancakes with sauce and vegetables."
+                },
+                "pho": {
+                  "calories": 350,
+                  "nutrients": {
+                    "carbs": "40g",
+                    "protein": "20g",
+                    "fat": "10g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": ["beef broth", "rice noodles", "beef", "herbs", "bean sprouts"],
+                  "recipe": "Simmer broth with spices. Add noodles and beef slices. Serve with fresh herbs."
+                },
+                "pizza": {
+                  "calories": 285,
+                  "nutrients": {
+                    "carbs": "33g",
+                    "protein": "12g",
+                    "fat": "10g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": ["pizza dough", "tomato sauce", "cheese", "vegetables", "olive oil"],
+                  "recipe": "Top rolled dough with sauce and toppings. Bake until crust is crispy and cheese melts."
+                },
+                "pork_chop": {
+                  "calories": 221,
+                  "nutrients": {
+                    "carbs": "0g",
+                    "protein": "26g",
+                    "fat": "12g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": ["pork chop", "salt", "pepper", "garlic", "olive oil"],
+                  "recipe": "Season and sear pork chop. Finish in oven until internal temp reaches 145°F."
+                },
+                "poutine": {
+                  "calories": 740,
+                  "nutrients": {
+                    "carbs": "68g",
+                    "protein": "21g",
+                    "fat": "45g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": ["fries", "cheese curds", "gravy"],
+                  "recipe": "Top hot fries with curds and pour over gravy. Serve warm."
+                },
+                "prime_rib": {
+                  "calories": 400,
+                  "nutrients": {
+                    "carbs": "0g",
+                    "protein": "30g",
+                    "fat": "30g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": ["prime rib roast", "salt", "pepper", "garlic", "rosemary"],
+                  "recipe": "Season roast and cook low and slow in oven. Rest before slicing."
+                },
+                "pulled_pork_sandwich": {
+                  "calories": 370,
+                  "nutrients": {
+                    "carbs": "34g",
+                    "protein": "21g",
+                    "fat": "17g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": ["pulled pork", "bbq sauce", "bun", "coleslaw"],
+                  "recipe": "Mix pork with sauce. Serve in bun with coleslaw."
+                },
+                "ramen": {
+                  "calories": 450,
+                  "nutrients": {
+                    "carbs": "55g",
+                    "protein": "15g",
+                    "fat": "18g"
+                  },
+                  "vegetarian": false,
+                  "ingredients": ["ramen noodles", "broth", "pork", "egg", "scallions"],
+                  "recipe": "Simmer broth. Add noodles, pork, egg, and toppings."
+                },
+                "ravioli": {
+                  "calories": 270,
+                  "nutrients": {
+                    "carbs": "30g",
+                    "protein": "10g",
+                    "fat": "12g"
+                  },
+                  "vegetarian": true,
+                  "ingredients": ["ravioli", "ricotta", "tomato sauce", "parmesan", "basil"],
+                  "recipe": "Boil ravioli. Toss in sauce and top with cheese and basil."
+                },
+                    "red_velvet_cake": {
+                      "calories": 400,
+                      "nutrients": {
+                        "protein": "5g",
+                        "carbs": "45g",
+                        "fat": "22g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": ["flour", "sugar", "butter", "eggs", "cocoa powder", "cream cheese", "red food coloring"],
+                      "recipe": "Bake layers of red velvet cake and frost with cream cheese icing."
+                    },
+                    "risotto": {
+                      "calories": 350,
+                      "nutrients": {
+                        "protein": "8g",
+                        "carbs": "50g",
+                        "fat": "12g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["arborio rice", "chicken broth", "onion", "butter", "parmesan cheese"],
+                      "recipe": "Cook arborio rice slowly with broth, stirring constantly, and finish with cheese."
+                    },
+                    "samosa": {
+                      "calories": 262,
+                      "nutrients": {
+                        "protein": "4g",
+                        "carbs": "30g",
+                        "fat": "14g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": ["potatoes", "peas", "flour", "spices", "oil"],
+                      "recipe": "Fill dough with spiced potato mixture and deep fry until golden."
+                    },
+                    "sashimi": {
+                      "calories": 132,
+                      "nutrients": {
+                        "protein": "23g",
+                        "carbs": "0g",
+                        "fat": "5g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["raw tuna", "raw salmon", "wasabi", "soy sauce"],
+                      "recipe": "Slice fresh raw fish thinly and serve chilled with wasabi and soy sauce."
+                    },
+                    "scallops": {
+                      "calories": 220,
+                      "nutrients": {
+                        "protein": "20g",
+                        "carbs": "6g",
+                        "fat": "14g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["scallops", "butter", "lemon juice", "garlic"],
+                      "recipe": "Pan sear scallops in butter until golden brown, then drizzle with lemon sauce."
+                    },
+                    "seaweed_salad": {
+                      "calories": 90,
+                      "nutrients": {
+                        "protein": "2g",
+                        "carbs": "9g",
+                        "fat": "5g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": ["seaweed", "sesame oil", "rice vinegar", "sesame seeds"],
+                      "recipe": "Toss rehydrated seaweed with dressing and garnish with sesame seeds."
+                    },
+                    "shrimp_and_grits": {
+                      "calories": 410,
+                      "nutrients": {
+                        "protein": "20g",
+                        "carbs": "35g",
+                        "fat": "22g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["shrimp", "grits", "butter", "cheese", "spices"],
+                      "recipe": "Cook grits, sauté shrimp with butter and spices, then combine."
+                    },
+                    "spaghetti_bolognese": {
+                      "calories": 380,
+                      "nutrients": {
+                        "protein": "18g",
+                        "carbs": "45g",
+                        "fat": "15g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onions", "garlic"],
+                      "recipe": "Simmer meat with tomato sauce and serve over cooked spaghetti."
+                    },
+                    "spaghetti_carbonara": {
+                      "calories": 420,
+                      "nutrients": {
+                        "protein": "16g",
+                        "carbs": "40g",
+                        "fat": "25g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["spaghetti", "eggs", "parmesan", "bacon", "black pepper"],
+                      "recipe": "Mix hot pasta with egg and cheese mixture and crispy bacon."
+                    },
+                    "spring_rolls": {
+                      "calories": 160,
+                      "nutrients": {
+                        "protein": "4g",
+                        "carbs": "20g",
+                        "fat": "6g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": ["rice paper", "vegetables", "vermicelli", "soy sauce"],
+                      "recipe": "Wrap vegetables and noodles in rice paper and serve with dipping sauce."
+                    },
+                    "steak": {
+                      "calories": 500,
+                      "nutrients": {
+                        "protein": "40g",
+                        "carbs": "0g",
+                        "fat": "35g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["beef steak", "salt", "pepper", "butter"],
+                      "recipe": "Grill or pan-sear steak to desired doneness and rest before serving."
+                    },
+                    "strawberry_shortcake": {
+                      "calories": 350,
+                      "nutrients": {
+                        "protein": "4g",
+                        "carbs": "40g",
+                        "fat": "18g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": ["shortcake", "strawberries", "whipped cream", "sugar"],
+                      "recipe": "Layer sweet biscuits with sugared strawberries and whipped cream."
+                    },
+                    "sushi": {
+                      "calories": 300,
+                      "nutrients": {
+                        "protein": "12g",
+                        "carbs": "35g",
+                        "fat": "10g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["rice", "raw fish", "seaweed", "wasabi", "soy sauce"],
+                      "recipe": "Roll seasoned rice and fish in seaweed sheets and slice."
+                    },
+                    "tacos": {
+                      "calories": 280,
+                      "nutrients": {
+                        "protein": "12g",
+                        "carbs": "30g",
+                        "fat": "14g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["tortilla", "beef or chicken", "lettuce", "cheese", "salsa"],
+                      "recipe": "Fill tortillas with meat and toppings and fold to serve."
+                    },
+                    "takoyaki": {
+                      "calories": 260,
+                      "nutrients": {
+                        "protein": "8g",
+                        "carbs": "30g",
+                        "fat": "12g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["octopus", "flour", "egg", "tempura scraps", "bonito flakes"],
+                      "recipe": "Cook octopus batter in special molds and top with sauce and bonito."
+                    },
+                    "tiramisu": {
+                      "calories": 420,
+                      "nutrients": {
+                        "protein": "7g",
+                        "carbs": "40g",
+                        "fat": "25g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": ["ladyfingers", "mascarpone", "coffee", "cocoa powder", "sugar"],
+                      "recipe": "Layer coffee-soaked biscuits with mascarpone and dust with cocoa."
+                    },
+                    "tuna_tartare": {
+                      "calories": 200,
+                      "nutrients": {
+                        "protein": "18g",
+                        "carbs": "2g",
+                        "fat": "12g"
+                      },
+                      "vegetarian": false,
+                      "ingredients": ["raw tuna", "avocado", "soy sauce", "lime juice"],
+                      "recipe": "Mix finely chopped tuna with avocado and dress with soy-lime."
+                    },
+                    "waffles": {
+                      "calories": 310,
+                      "nutrients": {
+                        "protein": "6g",
+                        "carbs": "35g",
+                        "fat": "16g"
+                      },
+                      "vegetarian": true,
+                      "ingredients": ["flour", "milk", "eggs", "butter", "syrup"],
+                      "recipe": "Cook batter in waffle iron until golden and serve with syrup."
+                    },
+                    "chicken_wings": {
+  "calories": 430,
+  "nutrients": {
+    "protein": "34g",
+    "carbs": "4g",
+    "fat": "30g"
+  },
+  "vegetarian": false,
+  "ingredients": ["chicken wings", "hot sauce", "butter", "garlic powder", "salt", "pepper"],
+  "recipe": "Fry or bake wings until crispy. Toss with a mixture of melted butter and hot sauce. Serve with ranch or blue cheese dip."
+},
+"chocolate_cake": {
+  "calories": 390,
+  "nutrients": {
+    "protein": "5g",
+    "carbs": "50g",
+    "fat": "20g"
+  },
+  "vegetarian": true,
+  "ingredients": ["flour", "sugar", "cocoa powder", "eggs", "butter", "baking powder", "milk"],
+  "recipe": "Mix dry ingredients with wet ones, pour into a cake pan, and bake. Frost with chocolate ganache or buttercream."
+},
+"chocolate_mousse": {
+  "calories": 350,
+  "nutrients": {
+    "protein": "6g",
+    "carbs": "30g",
+    "fat": "25g"
+  },
+  "vegetarian": true,
+  "ingredients": ["chocolate", "eggs", "heavy cream", "sugar", "vanilla extract"],
+  "recipe": "Melt chocolate. Fold into whipped egg whites and cream. Chill before serving for a light, airy dessert."
+}
+ 
+  }
+  

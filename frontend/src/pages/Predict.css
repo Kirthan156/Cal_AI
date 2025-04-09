@@ -1,0 +1,211 @@
+.predict-container {
+  background-image: url('https://caloriecontrol.org/wp-content/uploads/ingredients.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.predict-overlay {
+  background-color: rgba(255, 255, 255, 0.92);
+  padding: 40px 50px;
+  border-radius: 24px;
+  max-width: 900px;
+  width: 95%;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+  animation: fadeIn 0.7s ease-in;
+}
+
+.predict-content {
+  text-align: center;
+  color: #222;
+}
+
+.predict-content h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.predict-content p {
+  font-size: 16px;
+  color: #444;
+}
+
+.file-input {
+  margin: 20px auto;
+  padding: 12px;
+  display: block;
+}
+
+.image-preview {
+  margin-top: 20px;
+}
+
+.image-preview img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+.predict-btn {
+  margin-top: 16px;
+  padding: 12px 24px;
+  font-weight: bold;
+  background: linear-gradient(45deg, #4caf50, #81c784);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.predict-btn:hover {
+  background: linear-gradient(45deg, #43a047, #66bb6a);
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.loader {
+  margin: 20px auto;
+  border: 6px solid #f3f3f3;
+  border-top: 6px solid #3498db;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.error-msg {
+  margin-top: 15px;
+  color: #d32f2f;
+  font-weight: bold;
+  background: #ffdada;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.result {
+  margin-top: 30px;
+  background: #f7f7f7;
+  padding: 25px;
+  border-radius: 14px;
+  text-align: left;
+  font-size: 15px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.12);
+  animation: fadeIn 0.8s ease;
+  position: relative;
+}
+
+.result h3 {
+  margin-bottom: 12px;
+  color: #1a6d56;
+}
+
+.result ul {
+  padding-left: 20px;
+}
+
+.result-toggle {
+  display: inline-block;
+  font-size: 14px;
+  color: #00796b;
+  cursor: pointer;
+  margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+.result-collapsed {
+  display: none;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.dropzone {
+  border: 2px dashed #aaa;
+  border-radius: 10px;
+  padding: 30px;
+  margin-top: 20px;
+  background-color: #f4f4f4;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.dropzone:hover {
+  background-color: #e2f0ff;
+}
+
+.nutrition-chart {
+  margin-top: 20px;
+}
+
+.bar {
+  margin-bottom: 10px;
+}
+
+.bar label {
+  display: inline-block;
+  width: 100px;
+}
+
+.bar-fill {
+  display: inline-block;
+  background-color: #4caf50;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  min-width: 40px;
+  transition: transform 0.3s;
+}
+
+.bar-fill:hover {
+  transform: scale(1.05);
+  background-color: #388e3c;
+}
+.pie-chart-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.pie-chart {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+
+.legend {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.legend p {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #444;
+}
+
+.legend span {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-right: 6px;
+  border-radius: 4px;
+}
