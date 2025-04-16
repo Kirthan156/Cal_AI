@@ -1,8 +1,20 @@
+import os
+import json
 import torch
 from torchvision import transforms
 from PIL import Image
-import json
-import os
+
+# === NEW CODE to auto-download model if missing ===
+import gdown
+
+model_path = "../models/food101_convnext_tiny_finetuned.pth"
+drive_url = "https://drive.google.com/uc?id=1UsT2ZAKBS-1PnlrFb9b2QF3yoVT_HugF"
+
+if not os.path.exists(model_path):
+    os.makedirs(os.path.dirname(model_path), exist_ok=True)
+    print("Downloading model from Google Drive...")
+    gdown.download(drive_url, model_path, quiet=False)
+# ===================================================
 
 # Load class names and metadata
 with open("../utils/food101_classes.json", "r") as f:
@@ -40,8 +52,8 @@ def predict_with_metadata(image_file, model):
         class_name = idx_to_class[class_idx]
 
     item_meta = metadata.get(class_name, {})
-
     nutrients = item_meta.get("nutrients", {})
+
     return {
         "class": class_name,
         "calories": item_meta.get("calories", "Unknown"),
