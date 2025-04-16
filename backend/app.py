@@ -4,8 +4,8 @@ from routes import main
 import os
 import gdown
 
-# === NEW CODE to auto-download model if missing ===
-model_path = "../models/food101_convnext_tiny_finetuned.pth"
+# === FIXED: Correct path inside the app directory ===
+model_path = "models/food101_convnext_tiny_finetuned.pth"
 drive_url = "https://drive.google.com/uc?id=1UsT2ZAKBS-1PnlrFb9b2QF3yoVT_HugF"
 
 if not os.path.exists(model_path):
@@ -15,11 +15,10 @@ if not os.path.exists(model_path):
 # ===================================================
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS for all routes
+CORS(app)
 
 app.register_blueprint(main)
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))  # Railway sets this env var
-    app.run(debug=False, host="0.0.0.0", port=port)
-
+    port = int(os.environ.get("PORT", 5000))  # ✅ Railway will set this
+    app.run(debug=False, host="0.0.0.0", port=port)  # ✅ Must bind to 0.0.0.0
