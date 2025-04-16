@@ -20,4 +20,6 @@ CORS(app)  # Enable CORS for all routes
 app.register_blueprint(main)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Railway sets this env var
+    app.run(debug=False, host="0.0.0.0", port=port)
+
