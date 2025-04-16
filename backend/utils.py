@@ -17,10 +17,11 @@ if not os.path.exists(model_path):
 # ===================================================
 
 # Load class names and metadata
-with open("../utils/food101_classes.json", "r") as f:
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(BASE_DIR, "../utils/food101_classes.json"), "r") as f:
     idx_to_class = json.load(f)
 
-with open("../utils/food101_metadata.json", "r") as f:
+with open(os.path.join(BASE_DIR, "../utils/food101_metadata.json"), "r") as f:
     metadata = json.load(f)
 
 # Image transforms (should match your training settings)
