@@ -40,7 +40,8 @@ function Predict() {
 
     try {
       setLoading(true);
-      const response = await axios.post('http://localhost:5000/predict', formData);
+      const API_URL = https://calai-production.up.railway.app/ || 'http://localhost:5000';
+      const response = await axios.post(`${API_URL}/predict`, formData);
       setPrediction(response.data);
       setError(null);
     } catch (err) {
